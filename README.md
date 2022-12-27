@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aironasltu
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Java,c# 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me airvasc@gmail.com mr.airiuxas@gmail.com aironasv123@gmail.com aironasvasciunas@gmail.com
 Now im using to be airvasc@gmail.com and mr.airiuxas@gmail.com
 
